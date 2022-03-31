@@ -1,1 +1,1 @@
-UNIX-multiuser ability encourages permissions to begiven for file accessibilty
+UNIX-multiuser ability encourages permissions to be given for file accessibility.
